@@ -1,2 +1,0 @@
-# iihttraining
-githubtraining
